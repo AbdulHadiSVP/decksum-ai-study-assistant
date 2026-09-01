@@ -1,0 +1,4 @@
+# Mark frontend files as vendored so they are excluded from language statistics
+*.js linguist-vendored
+*.html linguist-vendored
+*.css linguist-vendored
