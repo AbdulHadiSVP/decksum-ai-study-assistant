@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+PyMuPDF
+python-docx
+passlib
+pydantic
+python-multipart
